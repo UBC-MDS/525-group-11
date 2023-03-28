@@ -4,7 +4,7 @@ The ultimate goal of this project is to build and deploy ensemble machine learni
 
 ## Data
 
-We will be using [this dataset on figshare](https://figshare.com/articles/dataset/Daily_rainfall_over_NSW_Australia/14096681). This folder has the output of different climate models as features, and our ultimate goal is to build an ensemble model on these outputs and compare the results with the actual rainfall. At the end of the project, you should have your ML model deployed in the cloud for others to use.
+We will be using [this dataset on figshare](https://figshare.com/articles/dataset/Daily_rainfall_over_NSW_Australia/14096681). This folder has the output of different climate models as features, and our ultimate goal is to build an ensemble model on these outputs and compare the results with the actual rainfall.
 
 ## Contributors
 
